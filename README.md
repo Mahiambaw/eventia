@@ -22,15 +22,15 @@ Eventia is a modern and minimalistic event booking platform where users can view
 
 #### 🖥️ Desktop
 
-<img src="./src/screenshots/homepage/Eventia_desktop.png" width="600"/>
+<img src="./screenshots/homepage/Eventia_desktop.png" width="600"/>
 
 #### 📱 Mobile
 
-<img src="./src/screenshots/homepage/eventia_mobile.png" width="300"/>
+<img src="./screenshots/homepage/eventia_mobile.png" width="300"/>
 
 #### 💻 Tablet
 
-<img src="./src/screenshots/homepage/eventia_tablet.png" width="400"/>
+<img src="./screenshots/homepage/eventia_tablet.png" width="400"/>
 
 ---
 
@@ -38,19 +38,15 @@ Eventia is a modern and minimalistic event booking platform where users can view
 
 #### 🖥️ Desktop
 
-<img src="./src/screenshots/homepage/booking/eventia_booking_desktop.png" width="600"/>
+<img src="./screenshots/homepage/booking/eventia_booking_desktop.png" width="600"/>
 
 #### 📱 Mobile
 
-<img src="./src/screenshots/homepage/booking/eventia_booking_mobile.png" width="300"/>
+<img src="./screenshots/homepage/booking/eventia_booking_mobile.png" width="300"/>
 
 #### 💻 Tablet
 
-<img src="./src/screenshots/homepage/booking/eventia_booking_tablet.png" width="400"/>
-
-#### Tablet
-
-![Booking Tablet](./screenshots/homepage/booking/eventia_booking_tablet.png)
+<img src="./screenshots/homepage/booking/eventia_booking_tablet.png" width="400"/>
 
 ## 🛠️ Installation
 
